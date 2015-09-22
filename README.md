@@ -1,5 +1,5 @@
 # BoardGame-AI
-The GUI is implemented in Java Graphics, and the AI is implemented in Java SE7.
+The GUI is implemented in <b>Java Graphics</b>, and the AI is implemented in <b>Java SE7</b>.
 
 
 The main models of this program are Board.java for chess board, and Cell.java for each board cell. They are packaged in model.
